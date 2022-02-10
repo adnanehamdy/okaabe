@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ahamdy)](#)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ahamdy)](https://profile.intra.42.fr/users/ahamdy)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
